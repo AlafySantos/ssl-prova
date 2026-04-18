@@ -1,0 +1,1 @@
+Envolve a criação de um diretório específico (/etc/ssl/certificates) para organizar e armazenar os arquivos de certificados que serão gerados ao longo da prática.

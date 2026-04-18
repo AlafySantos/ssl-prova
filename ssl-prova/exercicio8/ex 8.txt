@@ -1,0 +1,1 @@
+Finaliza o processo com a inspeção manual do certificado através das ferramentas do navegador, validando se as informações exibidas correspondem ao que foi configurado durante a prática.

@@ -1,0 +1,1 @@
+Demonstra a transferência segura do arquivo de certificado (aluno.crt) para um servidor de destino via protocolo SCP, simulando a distribuição de certificados em uma rede

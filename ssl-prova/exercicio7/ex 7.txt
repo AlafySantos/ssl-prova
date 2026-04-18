@@ -1,0 +1,1 @@
+Inicia um servidor web simples via Python na porta 8443 e realiza o acesso via navegador para observar o comportamento do protocolo HTTPS e o erro de segurança esperado em certificados autoassinados

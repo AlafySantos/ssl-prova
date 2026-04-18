@@ -1,0 +1,1 @@
+Foca na criação de uma chave privada RSA de 2048 bits (arquivo aluno.key), que serve como a base de segurança para a criptografia e identificação do servidor.

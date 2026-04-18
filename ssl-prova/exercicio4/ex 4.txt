@@ -1,0 +1,1 @@
+rata da geração do Certificate Signing Request (Solicitação de Assinatura de Certificado), onde a chave privada é usada para criar um pedido formal contendo as informações da identidade do solicitante

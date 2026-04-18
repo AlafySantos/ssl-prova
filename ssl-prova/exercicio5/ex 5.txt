@@ -1,0 +1,1 @@
+Realiza a criação de um certificado autoassinado (X.509) com validade de 365 dias, utilizando o CSR e a chave privada gerados anteriormente
